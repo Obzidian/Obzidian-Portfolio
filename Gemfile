@@ -56,5 +56,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'friendly_id', '~> 5.2.0'
 gem 'devise', '~> 4.2'
-
+gem 'bootstrap', '~> 4.1', '>= 4.1.3'
 gem 'obzidian_view_tool', git: 'https://github.com/Obzidian/obzidian_view_tool'
+gem 'petergate', '~> 1.8', '>= 1.8.1'
